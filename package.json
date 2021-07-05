@@ -1,0 +1,12 @@
+{
+  "name": "hello-nodejs_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "First Last <first.last@example.com>",
+  "main": "hello-nodejs.js",
+  "scripts": {
+    "start": "node hello-nodejs.js"
+  },
+  "dependencies": {
+  }
+}
